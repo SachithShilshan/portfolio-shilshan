@@ -1,4 +1,4 @@
-# XCEED Website
+# Website
 
 React + Vite + Tailwind scaffold for XCEED solutions website.
 
