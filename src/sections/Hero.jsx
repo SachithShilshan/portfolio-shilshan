@@ -40,12 +40,12 @@ export default function Hero({
           <div>
             <div className="w-full h-auto py-6 bg-gradient-to-br from-teal-100 to-cyan-100 dark:from-slate-800 dark:to-slate-800 rounded-xl flex flex-col items-center justify-center text-slate-700 dark:text-slate-200">
 
-              {/* Photo */}
               <img
-                src="\src\sections\photo.jpg"   // <-- replace with your actual photo path
-                alt="Sachit Shilsan"
+                src="public/photo.jpg"
+                alt="Sachith Shilshan"
                 className="w-28 h-28 rounded-full object-cover shadow-lg border-2 border-white dark:border-slate-700"
               />
+
 
               {/* Name */}
               <div className="text-xl font-bold mt-3">
@@ -67,49 +67,49 @@ export default function Hero({
               </div>
 
               {/* Contact Details */}
-          
-                <div className="flex-1 min-w-0">
-                
 
-                  <div className="mt-5 flex items-center gap-3">
-                    <a
-                     href="mailto:Shilshan@outlook.com"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-xs bg-green-50 dark:bg-green-900/20 text-blue-400 dark:text-blue-200 px-2 py-1 rounded-full border border-green-100 dark:border-blue-700"
-                    >
-                       Email
-                    </a>
+              <div className="flex-1 min-w-0">
 
-                    <a
-                      href="tel:+94771123977"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-xs bg-green-50 dark:bg-green-900/20 text-red-400 dark:text-red-100 px-2 py-1 rounded-full border border-green-100 dark:border-red-300"
-                    >
-                      Phone
-                    </a>
-                    <a
-                      href="https://wa.me/94771123977"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-xs bg-green-50 dark:bg-green-900/20 text-green-700 dark:text-green-300 px-2 py-1 rounded-full border border-green-100 dark:border-green-800"
-                    >
-                      WhatsApp
-                    </a>
 
-                    <a
-                      href="https://www.linkedin.com/in/sachith-shilshan/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-xs bg-slate-50 dark:bg-slate-900/20 text-teal-600 dark:text-teal-300 px-2 py-1 rounded-full border border-slate-100 dark:border-teal-800"
-                    >
-                      LinkedIn
-                    </a>
-                  </div>
+                <div className="mt-5 flex items-center gap-3">
+                  <a
+                    href="mailto:Shilshan@outlook.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs bg-green-50 dark:bg-green-900/20 text-blue-400 dark:text-blue-200 px-2 py-1 rounded-full border border-green-100 dark:border-blue-700"
+                  >
+                    Email
+                  </a>
+
+                  <a
+                    href="tel:+94771123977"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs bg-green-50 dark:bg-green-900/20 text-red-400 dark:text-red-100 px-2 py-1 rounded-full border border-green-100 dark:border-red-300"
+                  >
+                    Phone
+                  </a>
+                  <a
+                    href="https://wa.me/94771123977"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs bg-green-50 dark:bg-green-900/20 text-green-700 dark:text-green-300 px-2 py-1 rounded-full border border-green-100 dark:border-green-800"
+                  >
+                    WhatsApp
+                  </a>
+
+                  <a
+                    href="https://www.linkedin.com/in/sachith-shilshan/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs bg-slate-50 dark:bg-slate-900/20 text-teal-600 dark:text-teal-300 px-2 py-1 rounded-full border border-slate-100 dark:border-teal-800"
+                  >
+                    LinkedIn
+                  </a>
                 </div>
-             
-            
+              </div>
+
+
             </div>
           </div>
 
