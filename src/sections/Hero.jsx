@@ -1,6 +1,7 @@
 // src/sections/Hero.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
+import profilePic from '../assets/photo.jpg'; // ensure file exists here
 
 export default function Hero({
   title = 'Data, AI & Automation',
@@ -41,11 +42,10 @@ export default function Hero({
             <div className="w-full h-auto py-6 bg-gradient-to-br from-teal-100 to-cyan-100 dark:from-slate-800 dark:to-slate-800 rounded-xl flex flex-col items-center justify-center text-slate-700 dark:text-slate-200">
 
               <img
-                src="public/photo.jpg"
-                alt="Sachith Shilshan"
-                className="w-28 h-28 rounded-full object-cover shadow-lg border-2 border-white dark:border-slate-700"
-              />
-
+      src={profilePic}
+      alt="Shilshan Bandara"
+      className="w-28 h-28 rounded-full object-cover shadow-lg border-2 border-white dark:border-slate-700"
+    />
 
               {/* Name */}
               <div className="text-xl font-bold mt-3">
