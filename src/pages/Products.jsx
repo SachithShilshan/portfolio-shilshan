@@ -24,7 +24,7 @@ export default function Products() {
 
             <div className="mt-5">
               <a
-                href="https://sachithshilshan.github.io/xceed/"
+                href="https://xceed.live/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2 rounded-md bg-teal-600 text-white font-medium shadow hover:opacity-95"
@@ -45,7 +45,7 @@ export default function Products() {
 
             <div className="mt-5">
               <a
-                href="https://sachithshilshan.github.io/xceed/#/departments"
+                href="https://xceed.live/#/departments"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-5 py-2 rounded-md bg-teal-600 text-white font-medium shadow hover:opacity-95"

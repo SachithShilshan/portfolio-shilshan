@@ -1,9 +1,9 @@
 {
-  "name": "shilshan",
+  "name": "sachith",
   "version": "1.0.0",
   "private": true,
   "description": "AI, Data, BI & Automation solutions website",
-  "homepage": "https://sachithshilshan.github.io/portfolio-shilshan",
+  "homepage": "https://SachithBandaraThennakoon.github.io/portfolio-sachith",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

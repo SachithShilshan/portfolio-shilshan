@@ -43,13 +43,13 @@ export default function Hero({
 
               <img
       src={profilePic}
-      alt="Shilshan Bandara"
+      alt="Sachith Bandara"
       className="w-28 h-28 rounded-full object-cover shadow-lg border-2 border-white dark:border-slate-700"
     />
 
               {/* Name */}
               <div className="text-xl font-bold mt-3">
-                Shilshan Bandara Thennakoon
+                Sachith Bandara Thennakoon
               </div>
 
               {/* Title */}
@@ -73,7 +73,7 @@ export default function Hero({
 
                 <div className="mt-5 flex items-center gap-3">
                   <a
-                    href="mailto:its.shilshan@gmail.com"
+                    href="mailto:hello-xceed@outlook.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs bg-green-50 dark:bg-green-900/20 text-blue-400 dark:text-blue-200 px-2 py-1 rounded-full border border-green-100 dark:border-blue-700"
@@ -99,7 +99,7 @@ export default function Hero({
                   </a>
 
                   <a
-                    href="https://www.linkedin.com/in/sachith-shilshan/"
+                    href="https://www.linkedin.com/in/sachithbandarathennakoon/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs bg-slate-50 dark:bg-slate-900/20 text-teal-600 dark:text-teal-300 px-2 py-1 rounded-full border border-slate-100 dark:border-teal-800"
@@ -137,7 +137,7 @@ export default function Hero({
 
               <div className="mt-4 flex items-center gap-3">
                 <a
-                  href="https://sachithshilshan.github.io/xceed/"
+                  href="https://xceed.live/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center px-4 py-2 rounded-md bg-teal-600 text-white"
@@ -146,7 +146,7 @@ export default function Hero({
                 </a>
 
                 <a
-                  href="https://sachithshilshan.github.io/xceed/#/departments"
+                  href="https://xceed.live/#/departments"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center px-4 py-2 rounded-md border border-slate-300 dark:border-slate-600"

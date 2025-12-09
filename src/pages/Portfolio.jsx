@@ -4,15 +4,15 @@ import React from 'react';
 const projects = [
   {
     title: 'End-to-End Development: AI-Based Coupon Redemption Prediction System',
-    url: 'https://github.com/SachithShilshan/End-to-End-Development-AI-Based-Coupon-Redemption-Prediction-System'
+    url: 'https://github.com/SachithBandaraThennakoon/End-to-End-Development-AI-Based-Coupon-Redemption-Prediction-System'
   },
-  { title: 'AI tweet classification (BERT + LSTM)', url: 'https://github.com/SachithShilshan/AI-tweet-classification-BERT-LSTM' },
-  { title: 'PDF-to-CSV Converter', url: 'https://github.com/SachithShilshan/PDF-to-CSV-Converter' },
-  { title: 'Costing Template Automate', url: 'https://github.com/SachithShilshan/Costing-Template-Automate' },
-  { title: 'Predicting Earning Per Hour (EPH)', url: 'https://github.com/SachithShilshan/Predicting-Earning-Per-Hour' },
-  { title: 'Data Transformation (PowerQuery & R script)', url: 'https://github.com/SachithShilshan/Data-Transformation-Using-PowerQuery-And-Rscript' },
-  { title: 'AI-Powered Chatbot Integration (Business Operations)', url: 'https://github.com/SachithShilshan/Optimizing-Business-Operations-with-AI-Powered-Chatbot-Integration' },
-  { title: 'Optimizing Workflow Automation', url: 'https://github.com/SachithShilshan/Optimizing-Workflow-Automation' }
+  { title: 'AI tweet classification (BERT + LSTM)', url: 'https://github.com/SachithBandaraThennakoon/AI-tweet-classification-BERT-LSTM' },
+  { title: 'PDF-to-CSV Converter', url: 'https://github.com/SachithBandaraThennakoon/PDF-to-CSV-Converter' },
+  { title: 'Costing Template Automate', url: 'https://github.com/SachithBandaraThennakoon/Costing-Template-Automate' },
+  { title: 'Predicting Earning Per Hour (EPH)', url: 'https://github.com/SachithBandaraThennakoon/Predicting-Earning-Per-Hour' },
+  { title: 'Data Transformation (PowerQuery & R script)', url: 'https://github.com/SachithBandaraThennakoon/Data-Transformation-Using-PowerQuery-And-Rscript' },
+  { title: 'AI-Powered Chatbot Integration (Business Operations)', url: 'https://github.com/SachithBandaraThennakoon/Optimizing-Business-Operations-with-AI-Powered-Chatbot-Integration' },
+  { title: 'Optimizing Workflow Automation', url: 'https://github.com/SachithBandaraThennakoon/Optimizing-Workflow-Automation' }
 ];
 
 const articles = [
@@ -72,7 +72,7 @@ export default function Portfolio() {
             </ul>
 
             <div className="mt-6">
-              <a href="https://sachithshilshan.github.io/xceed/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-4 py-2 rounded-md bg-teal-600 text-white">
+              <a href="https://xceed.live/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center px-4 py-2 rounded-md bg-teal-600 text-white">
                 Open live dashboard demo
               </a>
             </div>

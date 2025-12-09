@@ -17,18 +17,18 @@ export default function Footer() {
         </nav>
 
         <div className="flex items-center gap-4">
-          <a href="https://www.linkedin.com/in/sachith-shilshan/" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">LinkedIn</a>
-          <a href="https://www.instagram.com/s_shi_shan?igsh=ejN1Y2xrNDgzNWE1&utm_source=qr" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">Instagram</a>
-          <a href="https://www.tiktok.com/@sachithshilshan?_r=1&_t=ZS-91sn6wrQHQu" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">Tiktok</a>
+          <a href="https://www.linkedin.com/in/SachithBandaraThennakoon/" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">LinkedIn</a>
+          <a href="https://www.instagram.com/sachith.bandara_?igsh=ejN1Y2xrNDgzNWE1&utm_source=qr" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">Instagram</a>
+          <a href="https://www.tiktok.com/@sachithbandarathennakoon?_r=1&_t=ZS-924bWPRz8yu" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">Tiktok</a>
 
-          <a href="https://www.facebook.com/share/15WsHtZ3gZK/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">Facebook</a>
-          <a href="https://youtube.com/@sachithshilshan?si=Du0Jyz51hRUBhGE3" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">YouTube</a>
-          <a href="mailto:its.shilshan@gmail.com" className="text-sm text-slate-600 dark:text-slate-300 underline">Email</a>
+          <a href="https://www.facebook.com/share/1ABE1baotb/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">Facebook</a>
+          <a href="https://youtube.com/@sachithbandarathennakoon?si=jZ1Z2gRGBzzbn2cV" target="_blank" rel="noopener noreferrer" className="text-sm hover:underline">YouTube</a>
+          <a href="mailto:hello-xceed@outlook.com" className="text-sm text-slate-600 dark:text-slate-300 underline">Email</a>
         </div>
 
         <div className="text-sm text-slate-500 dark:text-slate-400 text-center md:text-right">
-          <div>© {new Date().getFullYear()} Built by Shilshan B.</div>
-          <div className="mt-1">Specialist in BI, Data & AI — <a href="https://www.linkedin.com/in/sachith-shilshan/" target="_blank" rel="noopener noreferrer" className="underline">Connect</a></div>
+          <div>© {new Date().getFullYear()} Built by Sachith B.</div>
+          <div className="mt-1">Specialist in BI, Data & AI — <a href="https://www.linkedin.com/in/SachithBandaraThennakoon/" target="_blank" rel="noopener noreferrer" className="underline">Connect</a></div>
         </div>
       </div>
     </footer>
